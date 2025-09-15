@@ -1,0 +1,11 @@
+{
+    "category_counts": {
+        "Books": 3,
+        "Clothing": 2,
+        "Electronics": 2
+    },
+    "user_1_top": {
+        "Books": 1,
+        "Electronics": 1
+    }
+}
